@@ -25,3 +25,10 @@ just install   # symlink into ~/.claude/skills
 ```
 
 `dist/` is generated and not versioned.
+
+## Licence
+
+Per-file licensing, declared in `REUSE.toml` ([REUSE](https://reuse.software) convention) with full texts in `LICENSES/`:
+
+- **Content** (the skill under `cascade-literature-review/`, this README): [CC BY-SA 4.0](LICENSES/CC-BY-SA-4.0.txt).
+- **Code and config** (`justfile`, `.gitignore`): [GPL-3.0-or-later](LICENSES/GPL-3.0-or-later.txt).
