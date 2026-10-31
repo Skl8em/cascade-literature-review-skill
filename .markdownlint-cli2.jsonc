@@ -3,7 +3,8 @@
   // lint/sentence-per-line.js is vendored from Skl8em/docsys
   // (src/docsys/markdownlint/sentence-per-line.js, commit c829c6e) plus the fix that
   // lets a sentence open with inline code; the fix was not yet committed upstream
-  // when vendored. Same author.
+  // when vendored. The references to the source project's ADR-021 are removed.
+  // Same author.
   "customRules": ["./lint/sentence-per-line.js"],
   "globs": ["**/*.md"],
   "ignores": ["LICENSES/**", "dist/**", "**/node_modules/**"]

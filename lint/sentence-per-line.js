@@ -1,7 +1,7 @@
 // @ts-check
 "use strict";
 
-// Custom markdownlint rule: one sentence per line (semantic line breaks), ADR-021.
+// Custom markdownlint rule: one sentence per line (semantic line breaks).
 // Shared by the CLI (markdownlint-cli2) and the VSCode extension via `customRules`.
 //
 // It flags two shapes inside a paragraph:
@@ -14,7 +14,7 @@
 // lists against this repo's prose rather than chasing perfection.
 
 // Quotes/brackets allowed to trail a sentence end, plus the emphasis markers:
-// `**Stop here.**` is a whole sentence wearing a wrapper, and ADR-021 asks for a
+// `**Stop here.**` is a whole sentence wearing a wrapper, and the convention asks for a
 // line break after it just the same. Emphasis is rendering-neutral, so it must be
 // transparent to the rule on BOTH sides — a trailing closer and a leading opener.
 // A backtick is an opener too: a sentence may open with inline code (`[V]` only when…).
@@ -41,7 +41,7 @@ function endsSentence(line) {
 
 module.exports = {
   names: ["sentence-per-line", "MD100"],
-  description: "One sentence per line (semantic line breaks, ADR-021)",
+  description: "One sentence per line (semantic line breaks)",
   tags: ["sentences", "line_length"],
   parser: "markdownit",
   function: (params, onError) => {
