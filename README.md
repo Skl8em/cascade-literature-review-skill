@@ -6,7 +6,7 @@ The deliverable is a corpus ledger, programme dossiers and a synthesis that stat
 
 ## Layout
 
-```
+```text
 cascade-literature-review/     the skill itself (what gets installed)
 ├── SKILL.md                   entry point: design, non-negotiables, workflow
 └── references/

@@ -1,6 +1,7 @@
 # Reporting
 
-Templates for the deliverables, plus the obstacle taxonomy for the epistemological section. Adapt the wording; keep the sections — each exists because its absence is what makes a review unauditable.
+Templates for the deliverables, plus the obstacle taxonomy for the epistemological section.
+Adapt the wording; keep the sections — each exists because its absence is what makes a review unauditable.
 
 ## Programme dossier
 
@@ -73,7 +74,8 @@ Both appear in the text.
 
 ## The "cannot settle" taxonomy
 
-For each thesis, ask two questions: **what kind of knowledge would settle this**, and **is that kind producible on this object**. Where it is not, the thesis is not merely unsettled — it is unsettleable in the current state, which is a positive finding and should be reported as one rather than as an admission.
+For each thesis, ask two questions: **what kind of knowledge would settle this**, and **is that kind producible on this object**.
+Where it is not, the thesis is not merely unsettled — it is unsettleable in the current state, which is a positive finding and should be reported as one rather than as an admission.
 
 Most of the material is already in hand from the other axes:
 
@@ -88,13 +90,15 @@ Most of the material is already in hand from the other axes:
 | Measurement impossibility | The quantity in the thesis has no operationalisation that survives the concept | Axis 4 purchase codings |
 | Mode unavailability | The only mode with purchase on this claim type cannot be applied here — e.g. intervention is impossible or unethical | Axis 4 |
 
-Distinguish *unsettleable in principle* from *unsettleable given current access, instruments or institutions*. The second is contingent and worth stating as a research agenda: name what would have to change.
+Distinguish *unsettleable in principle* from *unsettleable given current access, instruments or institutions*.
+The second is contingent and worth stating as a research agenda: name what would have to change.
 
 Where a thesis is unsettleable, say what can be known instead — usually a weaker claim at a different claim type, which is a real result and not a consolation prize.
 
 ## Registers
 
-**Exclusions** — compact table in the review itself, not a separate file. A register nobody sees does no work.
+**Exclusions** — compact table in the review itself, not a separate file.
+A register nobody sees does no work.
 
 | Work | Programme | a1 | a2 | a3 | Reason | Would be reversed by |
 |---|---|---|---|---|---|---|
@@ -106,13 +110,16 @@ Where a thesis is unsettleable, say what can be known instead — usually a weak
 
 ## Formatting conventions
 
-- Compact tables. Identifiers in the ledger, not scattered through prose.
+- Compact tables.
+  Identifiers in the ledger, not scattered through prose.
 - Developed prose for reasoning; bullets only for genuine enumerations.
 - `[V]` / `[C]` inline on substantive claims.
 - Figures, exact citations and dates unqualified only if verified; otherwise `[to verify]`.
 - Quotations under fifteen words, attributed, rare — paraphrase carries the argument.
-- Date by project phase or retrieval date, not by implied permanence. The forward channel has a shelf life.
+- Date by project phase or retrieval date, not by implied permanence.
+  The forward channel has a shelf life.
 
 ## Handover note
 
-Close with what a re-run needs: the key-set version and its derivation criteria, queries and vocabularies, retrieval dates, tier thresholds, and which programme verdicts are likeliest to have moved. A review that cannot be re-run is a snapshot presented as a map.
+Close with what a re-run needs: the key-set version and its derivation criteria, queries and vocabularies, retrieval dates, tier thresholds, and which programme verdicts are likeliest to have moved.
+A review that cannot be re-run is a snapshot presented as a map.
