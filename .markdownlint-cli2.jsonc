@@ -1,10 +1,11 @@
 {
   // The rule block lives in .markdownlint.jsonc; here: the custom rule and the scope.
-  // lint/sentence-per-line.js is vendored from Skl8em/docsys
-  // (src/docsys/markdownlint/sentence-per-line.js, commit c829c6e) plus the fix that
-  // lets a sentence open with inline code; the fix was not yet committed upstream
-  // when vendored. The references to the source project's ADR-021 are removed.
-  // Same author.
+  // lint/sentence-per-line.js is vendored from Skl8em/docsys,
+  // src/docsys/markdownlint/sentence-per-line.js at commit 525d25b of its branch
+  // ph14-ws2-tr6-ts1-sentence-per-line (not yet merged or pushed when vendored), minus
+  // the references to that project's ADR-021.
+  // The same branch holds split-sentences.js, which breaks the lines this rule flags:
+  //   markdownlint-cli2 | node split-sentences.js
   "customRules": ["./lint/sentence-per-line.js"],
   "globs": ["**/*.md"],
   "ignores": ["LICENSES/**", "dist/**", "**/node_modules/**"]

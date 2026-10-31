@@ -189,7 +189,8 @@ Systematic reviews and handbook chapters are also second-order and get the same 
 
 ## 6. How the axes interact
 
-Axes 2 and 3 are largely independent of axis 1. An openly normative theory can be a progressive programme on an uncontaminated field; a theory descriptive in form can be degenerating and circular. Do not let a verdict on one axis propagate to the others by association — that is how a grid becomes a way of restating a prior judgement in four columns.
+Axes 2 and 3 are largely independent of axis 1. An openly normative theory can be a progressive programme on an uncontaminated field; a theory descriptive in form can be degenerating and circular.
+Do not let a verdict on one axis propagate to the others by association — that is how a grid becomes a way of restating a prior judgement in four columns.
 
 The combination identifying the target failure — a theory imposed on a field, insulated from correction, confirmed by a practice it created — is `normative-tacit` + `degenerating` + `contaminated`.
 It is a strong criterion precisely because it requires three independent findings to coincide.

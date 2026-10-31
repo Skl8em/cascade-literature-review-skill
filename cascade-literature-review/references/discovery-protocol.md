@@ -103,10 +103,14 @@ OpenCitations is a useful cross-check when OpenAlex and S2 disagree on a referen
 
 The operation is conceptual, not mechanical, and it cannot be delegated to a query.
 
-1. **Restate each thesis stripped of its home discipline's vocabulary.** Reduce it to the relation it asserts between what kinds of things.
-2. **Re-express it in the lexicon of three or four neighbouring disciplines.** The same relation is routinely studied under different names — the point is to find the name, not to translate the words. Where the equivalent term is uncertain, search a handbook or encyclopedia of that discipline for the relation rather than the term.
+1. **Restate each thesis stripped of its home discipline's vocabulary.**
+   Reduce it to the relation it asserts between what kinds of things.
+2. **Re-express it in the lexicon of three or four neighbouring disciplines.**
+   The same relation is routinely studied under different names — the point is to find the name, not to translate the words.
+   Where the equivalent term is uncertain, search a handbook or encyclopedia of that discipline for the relation rather than the term.
 3. **Search each vocabulary independently**, in that discipline's own sources.
-4. **Record both lists**: disciplines interrogated, and disciplines within plausible reach that were not. The second list is what makes the partial regime honest.
+4. **Record both lists**: disciplines interrogated, and disciplines within plausible reach that were not.
+   The second list is what makes the partial regime honest.
 
 Philosophy and the social sciences are the ones most often skipped and most often load-bearing — a large part of what a literature treats as settled empirical background turns out, laterally, to be a contested conceptual position.
 Do not treat them as optional colour.

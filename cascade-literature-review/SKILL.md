@@ -19,7 +19,8 @@ Never deliver 3 without 1 and 2. A review whose corpus cannot be audited is an o
 Completeness is a property of each channel separately, never of the whole.
 Claiming global exhaustiveness is not achievable and pretending otherwise is the failure this skill exists to prevent.
 
-- **Backward cascade** (what key works cite) — exhaustive at depth 1. Reconstructs where premises come from. Feeds **axis 1**.
+- **Backward cascade** (what key works cite) — exhaustive at depth 1. Reconstructs where premises come from.
+  Feeds **axis 1**.
 - **Forward cascade** (what cites key works) — exhaustive in enumeration, tiered in reading.
   It is a record of how the community behaved after the thesis was on the table: which anomalies arose, what was done with them, who picked the theory up.
   Feeds **axes 2 and 3**.
