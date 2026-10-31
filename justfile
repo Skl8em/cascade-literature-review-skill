@@ -18,9 +18,10 @@ check:
     done
     exit $status
 
-# Check licence compliance (REUSE)
+# Lint: licence compliance (REUSE) and Markdown (markdownlint, one sentence per line)
 lint:
     reuse lint
+    markdownlint-cli2
 
 # Build the distributable archive in dist/
 build: check lint

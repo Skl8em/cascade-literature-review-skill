@@ -19,6 +19,7 @@
         default = pkgs.mkShell {
           packages = with pkgs; [
             just
+            markdownlint-cli2
             reuse
             zip
             unzip

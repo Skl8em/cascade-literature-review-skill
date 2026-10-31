@@ -1,0 +1,18 @@
+{
+  // Shared rule block, read by the CLI (markdownlint-cli2) and by the VSCode
+  // extension, so the two never drift. Defaults, then deliberate departures.
+  "default": true,
+
+  // Semantic line breaks: a line is as long as its sentence (rule MD100, custom,
+  // see .markdownlint-cli2.jsonc), so a fixed length cap is the wrong rule.
+  "MD013": false,
+
+  // Section names repeat under different parents in the reference files.
+  "MD024": { "siblings_only": true },
+
+  // Inline HTML is allowed.
+  "MD033": false,
+
+  // Not enforced; newer engines (e.g. the editor's) have it, the pinned CLI may not.
+  "MD060": false
+}

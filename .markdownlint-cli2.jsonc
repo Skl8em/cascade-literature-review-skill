@@ -1,0 +1,8 @@
+{
+  // The rule block lives in .markdownlint.jsonc; here: the custom rule and the scope.
+  // lint/sentence-per-line.js is vendored from Skl8em/docsys
+  // (src/docsys/markdownlint/sentence-per-line.js, commit c829c6e), same author.
+  "customRules": ["./lint/sentence-per-line.js"],
+  "globs": ["**/*.md"],
+  "ignores": ["LICENSES/**", "dist/**", "**/node_modules/**"]
+}
