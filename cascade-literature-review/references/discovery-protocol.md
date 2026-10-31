@@ -43,7 +43,8 @@ Coverage is uneven and degrades exactly where a broad-ranging review needs to go
 | HAL, Cairn, OpenEdition, Persée | varies | limited | Francophone social sciences and humanities |
 | Discipline-specific indexes | varies | varies | Ask what the field's own index is before assuming a generalist covers it |
 
-Availability and shape of each API changes; verify before a batch run rather than trusting a remembered endpoint. `[to verify]` for anything not checked in-session.
+Availability and shape of each API changes; verify before a batch run rather than trusting a remembered endpoint.
+`[to verify]` for anything not checked in-session.
 
 **Rule:** before phase 1, name the disciplines in scope and identify, for each, whether a generalist source covers it adequately.
 Where it does not, add the discipline-specific source or declare the gap.
@@ -139,7 +140,8 @@ For each forward-channel record reaching T1 or T2:
 | `practitioner-uptake` | Textbook, regulator, handbook, consultancy, standard. Direct evidence for axis 3. |
 
 The distribution is the raw material of the programme dossier.
-Large `affirming-applies` mass, a visible `rescuing` set, and a `critical-empirical` set that is never answered: degeneration. `critical-empirical` followed by `extending`: a progressive programme.
+Large `affirming-applies` mass, a visible `rescuing` set, and a `critical-empirical` set that is never answered: degeneration.
+`critical-empirical` followed by `extending`: a progressive programme.
 
 Where citation contexts are available, code from the context sentence.
 Otherwise code from the abstract plus the paragraph containing the citation, and mark the coding `[C]` until the full text is checked.

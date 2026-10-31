@@ -45,7 +45,8 @@ Signals: alternatives raised only to be dismissed in a sentence; the literature 
 
 Failing (a) or (b) is `normative-tacit`.
 Passing both is `normative-explicit`.
-No value premise in the central claim — rarer than it looks, most plausible for measurement and typology work — is `descriptive`. `indeterminate` where the claim cannot be reconstructed as a conditional from the available text: code it and say why rather than guessing.
+No value premise in the central claim — rarer than it looks, most plausible for measurement and typology work — is `descriptive`.
+`indeterminate` where the claim cannot be reconstructed as a conditional from the available text: code it and say why rather than guessing.
 
 **Provenance of the premise.**
 When a paper codes `normative-tacit`, run its backward cascade far enough to find where P entered.

@@ -49,7 +49,9 @@ Channel, round, key-set version, source, date.
 A demoted key work does not disappear; it moves to the register with its demotion reason.
 The movement of the key set is evidence, not draft.
 
-**Two-level verification.** `[V]` only when the supporting passage has been read. `[C]` means claimed-but-unchecked.
+**Two-level verification.**
+`[V]` only when the supporting passage has been read.
+`[C]` means claimed-but-unchecked.
 Confirming a cited work exists proves existence, not that it supports the claim made of it — most miscitation survives an existence check.
 Paraphrase by default; quotations under fifteen words, attributed.
 
