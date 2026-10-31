@@ -7,7 +7,7 @@ SPDX-FileCopyrightText = "Benjamin Claverie"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 [[annotations]]
-path = ["justfile", ".gitignore", "REUSE.toml"]
+path = ["justfile", ".gitignore", "REUSE.toml", "flake.nix", "flake.lock"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "Benjamin Claverie"
 SPDX-License-Identifier = "GPL-3.0-or-later"

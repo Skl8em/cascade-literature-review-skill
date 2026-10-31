@@ -18,8 +18,12 @@ check:
     done
     exit $status
 
+# Check licence compliance (REUSE)
+lint:
+    reuse lint
+
 # Build the distributable archive in dist/
-build: check
+build: check lint
     mkdir -p dist
     rm -f dist/{{skill}}.skill
     zip -qr dist/{{skill}}.skill {{skill}} -x '*.DS_Store'
